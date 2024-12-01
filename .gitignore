@@ -1,1 +1,4 @@
 .venv
+tf_save_pretrained/
+*.h5
+*.txt
